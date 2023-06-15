@@ -17,7 +17,7 @@ Ao longo de todo o projeto, cada célula de código está explicada para uma fá
 Neste projeto foi utilizado Estatística, Machine Learning e a linguagem de programação Python.
 
 
-[Link para o projeto completo](https://bit.ly/40uSnFa)
+[Link para o projeto completo](https://bit.ly/3NwoNKZ)
 
 **Links para me acharem:**
 * [Artigo meu desse projeto no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7029453146036789248/)
