@@ -20,7 +20,7 @@ Neste projeto foi utilizado Estatística, Machine Learning e a linguagem de prog
 [Link para o projeto completo](https://bit.ly/3NwoNKZ)
 
 **Links para me acharem:**
-* [Artigo meu desse projeto no Linkedin](https://www.linkedin.com/pulse/detec%25C3%25A7%25C3%25A3o-de-fraude-em-cart%25C3%25B5es-cr%25C3%25A9dito-felipe-ferreira)
+* [Artigo meu desse projeto no Linkedin](https://www.linkedin.com/pulse/detec%2525C3%2525A7%2525C3%2525A3o-de-fraudes-em-cart%2525C3%2525B5es-cr%2525C3%2525A9dito-felipe-ferreira%3FtrackingId=SKe9qzYEQtCaKUNbj6Coow%253D%253D/?trackingId=SKe9qzYEQtCaKUNbj6Coow%3D%3D)
 * [LinkedIn](https://www.linkedin.com/in/felipeferreiratids/)
 * [Instagram](https://www.instagram.com/ferreiramar96/)
 * [Portfólio Completo](https://github.com/ferreiramar96/Data_Science)
