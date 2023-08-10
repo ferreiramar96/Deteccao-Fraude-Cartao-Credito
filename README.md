@@ -14,13 +14,13 @@ Nesse projeto realizei uma análise sobre os dados de algumas empresas europeias
 
 Ao longo de todo o projeto, cada célula de código está explicada para uma fácil compreensão. Vocês também encontrarão algumas análises estatísticas, boxplots, histogramas, balanceamento de classes, padronização de algumas variáveis e muito mais.
 
-Neste projeto foi utilizado Estatística, Machine Learning e a linguagem de programação Python.
+Neste projeto foi utilizado: Storytelling, Estatística, Machine Learning e a linguagem de programação Python.
 
 
 [Link para o projeto completo](https://bit.ly/3NwoNKZ)
 
 **Links para me acharem:**
-* [Artigo meu desse projeto no Linkedin](https://www.linkedin.com/pulse/detec%2525C3%2525A7%2525C3%2525A3o-de-fraudes-em-cart%2525C3%2525B5es-cr%2525C3%2525A9dito-felipe-ferreira%3FtrackingId=SKe9qzYEQtCaKUNbj6Coow%253D%253D/?trackingId=SKe9qzYEQtCaKUNbj6Coow%3D%3D)
+* [Artigo desse projeto no Linkedin](https://www.linkedin.com/pulse/detec%2525C3%2525A7%2525C3%2525A3o-de-fraudes-em-cart%2525C3%2525B5es-cr%2525C3%2525A9dito-felipe-ferreira%3FtrackingId=SKe9qzYEQtCaKUNbj6Coow%253D%253D/?trackingId=SKe9qzYEQtCaKUNbj6Coow%3D%3D)
 * [LinkedIn](https://www.linkedin.com/in/felipeferreiratids/)
 * [Instagram](https://www.instagram.com/ferreiramar96/)
 * [Portfólio Completo](https://github.com/ferreiramar96/Data_Science)
